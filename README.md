@@ -10,9 +10,6 @@
 
 ### Languages And Tools
 
-[<img align="left" alt="HTML5" width="26px" src="">]
-[<img align="left" alt="CSS3" width="26px" src="">]
 [<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">]
-[<img align="left" alt="Node.js" width="26px" src="">]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">]
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">]
