@@ -3,13 +3,16 @@
 
 ## ⭐ Actually learning cool stuff at [Iris-School] ⭐
 
-🔭 I'm 19yo
-🌱 I’m currently learning everything 🤣
-👨‍💻 Some of my projects are available here
-⚡ I am in the second year of BTS SIO
+- 🔭 I'm 19yo
+- 🌱 I’m currently learning everything 🤣
+- 👨‍💻 Some of my projects are available here
+- ⚡ I am in the second year of BTS SIO
 
-### Languages And Tools
+### Most Used Languages 💻
 
-[<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">]
-[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">]
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassSSH&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+### Activity 👨‍💻​
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=YassSSH&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
