@@ -10,10 +10,10 @@
 
 ### Most Used Languages 💻
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassSSH&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassSSH&theme=blue-green)]
 
 ### Activity 👨‍💻​
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=YassSSH&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=YassSSH&theme=blue-green)]
 
 [Iris-School]: https://ecoleiris.fr/
