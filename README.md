@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yassine
+<h1 align="center">Hi 👋, I'm Yassine</h1>
 
 
 ## ⭐ Actually learning cool stuff at [Iris-School] ⭐
