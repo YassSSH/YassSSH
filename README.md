@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Yassine</h1>
+<h1 align="center">Hi, I'm Yassine</h1>
 
 <p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/standard.gif?raw=true"/></p>
 
