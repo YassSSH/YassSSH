@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/your_cool_intro%20(12).gif?raw=true"/></p>
+<p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/standard.gif?raw=true"/></p>
 
 
 ## ⭐ Actually learning cool stuff at [Iris-School] ⭐
