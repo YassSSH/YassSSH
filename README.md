@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Yassine</h1>
 
-<p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/standard.gif?raw=true"/></p>
+<p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/standard(1).gif?raw=true"/></p>
 
 
 ## ⭐ Actually learning cool stuff at [Iris-School] ⭐
