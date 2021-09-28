@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassine</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/bycop/bycop/main/standard.gif"/></p>
 
 
 ## ⭐ Actually learning cool stuff at [Iris-School] ⭐
