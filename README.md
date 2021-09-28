@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/bycop/bycop/main/standard.gif"/></p>
+<p align="center"><img src=""/></p>
 
 
 ## ⭐ Actually learning cool stuff at [Iris-School] ⭐
