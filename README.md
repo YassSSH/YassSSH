@@ -7,7 +7,7 @@
 ## ⭐ Actually learning cool stuff ⭐
 
 - 🔭 I'm 19yo
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning Salesforce
 - 👨‍💻 Some of my projects are available here
 
 
