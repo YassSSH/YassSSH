@@ -7,7 +7,7 @@
 ## ⭐ Actually learning cool stuff ⭐
 
 - 🔭 I'm 19yo
-- 🌱 I’m currently learning Salesforce Apex and Javascript
+- 🌱 I’m currently learning Salesforce Apex and ReactJS
 - 👨‍💻 Some of my projects are available here
 
 
