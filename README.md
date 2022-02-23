@@ -13,6 +13,6 @@
 
 ### Most Used Languages 💻
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassSSH&theme=blue-green)]
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassSSH&theme=blue-green)
 
 
