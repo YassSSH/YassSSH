@@ -21,7 +21,7 @@
 ## ⭐ Actually learning cool stuff ⭐
 
 - 🔭 I'm 20yo
-- 🌱 I’m currently learning Salesforce Apex, React.js and Material-UI
+- 🌱 I’m currently learning **Salesforce Apex, React.js and Material-UI**
 - 👨‍💻 Some of my projects are available here
 
 
