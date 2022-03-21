@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/standard.gif?raw=true"/></p>
 <p align="center">
- <img src="https://img.shields.io/github/followers/bycop.svg?style=social&label=Follow&maxAge=2592000" alt="Follower count"/>
+ <img src="https://img.shields.io/github/followers/yassssh.svg?style=social&label=Follow&maxAge=2592000" alt="Follower count"/>
 </p>
 
 <div align="center">
