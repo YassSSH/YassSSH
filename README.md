@@ -32,7 +32,7 @@
 
 ### Most Used Languages 💻
 
-![Naereen's top languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=yassssh&langs_count=8])
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassssh&langs_count=8)
 
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=532a5667c518&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
