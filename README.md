@@ -23,7 +23,7 @@
 ## ⭐ Actually learning cool stuff ⭐
 
 - 🔭 I'm 20yo
-- 🌱 I’m currently learning **React.js and Java**
+- 🌱 I’m currently learning **React.js and Typescript**
 - 👨‍💻 Some of my projects are available here
 
 [<img src="https://login.salesforce.com/img/logo190.png" align="right" width="300">](https://login.salesforce.com/)
