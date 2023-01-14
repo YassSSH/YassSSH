@@ -19,7 +19,7 @@
 
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=yasssshe&color=blue)
 ## ⭐ Actually learning cool stuff ⭐
 
 - 🔭 I'm 20yo
