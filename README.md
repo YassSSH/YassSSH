@@ -22,7 +22,7 @@
 
 ## ⭐ Actually learning cool stuff ⭐
 
-- 🔭 I'm 20yo
+- 🔭 I'm 21yo
 - 🌱 I’m currently learning **React.js and Typescript**
 - 👨‍💻 Some of my projects are available here
 
