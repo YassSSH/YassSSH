@@ -24,8 +24,9 @@
 
 ## ⭐ Actually learning cool stuff ⭐
 
-- 🔭 I'm 21yo
-- 🌱 I’m currently learning **React.js and Typescript**
+- 🔭 I'm 22yo
+- 🌱 I’m a Software Engineer 
+- 💻 Actually Using **React.js and Typescript**
 - 👨‍💻 Some of my projects are available here
 
 [<img src="https://login.salesforce.com/img/logo190.png" align="right" width="300">](https://login.salesforce.com/)
