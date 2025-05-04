@@ -17,7 +17,7 @@
 
 ## ⭐ Actually learning cool stuff ⭐
 
-- 🔭 I'm 22yo
+- 🔭 I'm 23yo
 - 🌱 Working as a Software Engineer 
 - 💻 Actually Using **React.js and Typescript**
 - 👨‍💻 Some of my projects are available here
