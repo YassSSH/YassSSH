@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Yassine</h1>
 
-[<p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/standard2.gif?raw=true"/></p>
+<p align="center"><img src="https://github.com/YassSSH/YassSSH/blob/master/standard2.gif?raw=true"/></p>
 <p align="center">
  <img src="https://img.shields.io/github/followers/yassssh.svg?style=social&label=Follow&maxAge=2592000" alt="Follower count"/>
 </p>
